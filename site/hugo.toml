@@ -4,5 +4,28 @@ languageLang = "en"
 title = "Raechel Browne"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+[menu]
+  [[menu.main]]
+    name = "The Rope That Binds Us"
+    url = "#book"
+  [[menu.main]]
+    name = "About"
+    url = "#about"
+  [[menu.main]]
+    name = "Blog"
+    url = "https://yourblog.com"
+  [[menu.main]]
+    name = "Events"
+    url = "https://eventbrite.com/yourpage"
+  [[menu.main]]
+    name = "Contact"
+    url = "#contact"
+
 [params]
-images = ["img/og-image.jpg"]
+  images = ["img/og-image.jpg"]
+  social = [
+    { platform = "twitter", link = "https://twitter.com/youraccount" },
+    { platform = "instagram", link = "https://instagram.com/youraccount" },
+    { platform = "facebook", link = "https://facebook.com/youraccount" },
+    { platform = "goodreads", link = "https://goodreads.com/youraccount" }
+  ]
