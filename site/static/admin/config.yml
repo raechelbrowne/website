@@ -41,30 +41,30 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Name", name: "name", widget: string}
                   - {label: "Link", name: "link", widget: string}
                   - {label: "Image", name: "image", widget: image}
-        - label: "Reviews"
-          name: reviews
-          widget: object
-          fields:
-            - {label: "Heading", name: "heading", widget: string}
-            - label: "Items"
-              name: "items"
-              widget: list
-              fields:
-                - {label: "Quote", name: "quote", widget: text}
-                - {label: "Author", name: "author", widget: string}
-                - {label: "Title", name: "title", widget: string}
-        - label: "About"
-          name: about
-          widget: object
-          fields:
-            - {label: "Heading", name: "heading", widget: string}
-            - {label: "Image", name: "image", widget: image}
-            - {label: "Paragraphs", name: "paragraphs", widget: list, field: {label: Text, name: text, widget: text}}
-        - label: "Contact"
-          name: contact
-          widget: object
-          fields:
-            - {label: "Heading", name: "heading", widget: string}
+          - label: "Reviews"
+            name: reviews
+            widget: object
+            fields:
+              - {label: "Heading", name: "heading", widget: string}
+              - label: "Items"
+                name: "items"
+                widget: list
+                fields:
+                  - {label: "Quote", name: "quote", widget: text}
+                  - {label: "Author", name: "author", widget: string}
+                  - {label: "Title", name: "title", widget: string}
+          - label: "About"
+            name: about
+            widget: object
+            fields:
+              - {label: "Heading", name: "heading", widget: string}
+              - {label: "Image", name: "image", widget: image}
+              - {label: "Paragraphs", name: "paragraphs", widget: list, field: {label: Text, name: text, widget: text}}
+          - label: "Contact"
+            name: contact
+            widget: object
+            fields:
+              - {label: "Heading", name: "heading", widget: string}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
