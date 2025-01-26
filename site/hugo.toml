@@ -5,24 +5,38 @@ title = "Raechel Browne"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [menu]
-  [[menu.main]]
-    name = "The Rope That Binds Us"
-    url = "/#book"
-  [[menu.main]]
-    name = "About"
-    url = "/#about"
-  [[menu.main]]
-    name = "Blog"
-    url = "/post"
-  [[menu.main]]
-    name = "Contact"
-    url = "/#contact"
+
+[[menu.main]]
+name = "The Rope That Binds Us"
+url = "/#book"
+
+[[menu.main]]
+name = "About"
+url = "/#about"
+
+[[menu.main]]
+name = "Blog"
+url = "/post"
+
+[[menu.main]]
+name = "Contact"
+url = "/#contact"
 
 [params]
-  images = ["img/og-image.jpg"]
-  social = [
-    { platform = "twitter", link = "https://twitter.com/youraccount" },
-    { platform = "instagram", link = "https://instagram.com/youraccount" },
-    { platform = "facebook", link = "https://facebook.com/youraccount" },
-    { platform = "goodreads", link = "https://goodreads.com/youraccount" }
-  ]
+images = ["img/51ltcfcyqql._sl1360_.jpg"]
+
+[[params.social]]
+platform = "twitter"
+link = "https://twitter.com/youraccount"
+
+[[params.social]]
+platform = "instagram"
+link = "https://instagram.com/youraccount"
+
+[[params.social]]
+platform = "facebook"
+link = "https://facebook.com/youraccount"
+
+[[params.social]]
+platform = "goodreads"
+link = "https://goodreads.com/youraccount"
