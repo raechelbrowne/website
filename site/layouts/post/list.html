@@ -1,24 +1,49 @@
 {{ define "main" }}
-<section class="pt-24 pb-16 px-4">
-    <div class="max-w-6xl mx-auto">
-        <h1 class="text-4xl font-bold mb-8">Blog</h1>
-        <div class="grid md:grid-cols-2 gap-8">
-            {{ range .Pages }}
-            <article class="bg-white rounded-lg shadow-lg overflow-hidden">
-                {{ if .Params.image }}
-                <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-48 object-cover">
-                {{ end }}
-                <div class="p-6">
-                    <h2 class="text-2xl font-bold mb-2">
-                        <a href="{{ .RelPermalink }}" class="hover:text-blue-600">{{ .Title }}</a>
-                    </h2>
-                    <time class="text-gray-600 mb-4 block">{{ .Date.Format "January 2, 2006" }}</time>
-                    <p class="text-gray-700 mb-4">{{ .Description }}</p>
-                    <a href="{{ .RelPermalink }}" class="text-blue-600 hover:text-blue-800">Read More →</a>
-                </div>
-            </article>
-            {{ end }}
-        </div>
-    </div>
+<section class="pt-24 pb-16 px-4 bg-gray-50">
+   <div class="max-w-6xl mx-auto">
+       <h1 class="text-5xl font-bold mb-12 text-center">Writing & Updates</h1>
+       
+       <!-- Featured Post -->
+       {{ range first 1 .Pages }}
+       <article class="mb-16">
+           <div class="bg-white rounded-lg shadow-xl overflow-hidden flex flex-col md:flex-row">
+               {{ if .Params.image }}
+               <div class="md:w-1/2">
+                   <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-96 object-cover">
+               </div>
+               {{ end }}
+               <div class="md:w-1/2 p-8 flex flex-col justify-center">
+                   <time class="text-blue-600 mb-2 font-medium">{{ .Date.Format "January 2, 2006" }}</time>
+                   <h2 class="text-3xl font-bold mb-4">
+                       <a href="{{ .RelPermalink }}" class="hover:text-blue-600 transition duration-200">{{ .Title }}</a>
+                   </h2>
+                   <p class="text-gray-600 mb-6 text-lg">{{ .Description }}</p>
+                   <a href="{{ .RelPermalink }}" class="inline-block bg-blue-600 text-white py-2 px-6 rounded hover:bg-blue-700 transition duration-200 text-center md:text-left w-full md:w-auto">Read Article →</a>
+               </div>
+           </div>
+       </article>
+       {{ end }}
+
+       <!-- Remaining Posts Grid -->
+       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+           {{ range after 1 .Pages }}
+           <article class="bg-white rounded-lg shadow-lg overflow-hidden flex flex-col h-full transform hover:-translate-y-1 transition duration-200">
+               {{ if .Params.image }}
+               <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-48 object-cover">
+               {{ end }}
+               <div class="p-6 flex-grow">
+                   <time class="text-blue-600 mb-2 block text-sm font-medium">{{ .Date.Format "January 2, 2006" }}</time>
+                   <h2 class="text-xl font-bold mb-3 leading-tight">
+                       <a href="{{ .RelPermalink }}" class="hover:text-blue-600 transition duration-200">{{ .Title }}</a>
+                   </h2>
+                   <p class="text-gray-600 mb-4">{{ .Description }}</p>
+               </div>
+               <div class="px-6 pb-6">
+                   <a href="{{ .RelPermalink }}" class="text-blue-600 hover:text-blue-800 font-medium">Continue Reading →</a>
+               </div>
+           </article>
+           {{ end }}
+       </div>
+   </div>
 </section>
 {{ end }}
