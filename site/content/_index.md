@@ -6,14 +6,11 @@ book:
   publishYear: 2023
   description: Your compelling book description goes here. Make it engaging and
     hook your readers with an intriguing premise.
-  coverImage: /img/book-cover.jpg
+  coverImage: img/51ltcfcyqql._sl1360_.jpg
   retailers:
     - name: Amazon
       link: https://amazon.com
-      image: /img/amazon.png
-    - name: Barnes & Noble
-      link: https://barnesandnoble.com
-      image: /img/bn.png
+      image: img/android-chrome-192x192.png
 reviews:
   heading: What Readers Are Saying
   items:
