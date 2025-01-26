@@ -1,0 +1,14 @@
+<section class="bg-white py-16 px-4">
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-12">{{ .Params.reviews.heading }}</h2>
+        <div class="grid md:grid-cols-2 gap-8">
+            {{ range .Params.reviews.items }}
+            <div class="bg-gray-50 p-6 rounded-lg shadow">
+                <div class="text-yellow-400 mb-4">★★★★★</div>
+                <p class="text-gray-700 mb-4">"{{ .quote }}"</p>
+                <p class="font-semibold">- {{ .author }}, {{ .title }}</p>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
