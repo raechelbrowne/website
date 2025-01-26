@@ -3,7 +3,7 @@ title: Raechel Browne - Official Website
 book:
   title: The Rope That Binds Us
   genre: Young Adult
-  publishYear: 2023
+  publishYear: "2024"
   description: Your compelling book description goes here. Make it engaging and
     hook your readers with an intriguing premise.
   coverImage: img/51ltcfcyqql._sl1360_.jpg
