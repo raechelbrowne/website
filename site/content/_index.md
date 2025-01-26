@@ -10,7 +10,7 @@ book:
   retailers:
     - name: Amazon
       link: https://amazon.com
-      image: img/android-chrome-192x192.png
+      image: img/available-amazon-badge.jpg
 reviews:
   heading: What Readers Are Saying
   items:
