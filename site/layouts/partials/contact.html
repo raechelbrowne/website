@@ -1,8 +1,8 @@
 <section id="contact" class="bg-white py-16 px-4">
     <div class="max-w-6xl mx-auto text-center">
-        <h2 class="text-3xl font-bold mb-8">{{ .Site.Data.home.contact.heading }}</h2>
+        <h2 class="text-3xl font-bold mb-8">{{ .Params.contact.heading }}</h2>
         <p class="text-xl text-gray-600">
-            Email me at: <a href="mailto:{{ .Site.Data.home.contact.email }}" class="text-blue-600 hover:text-blue-800">{{ .Site.Data.home.contact.email }}</a>
+            Email me at: <a href="mailto:{{ .Params.contact.email }}" class="text-blue-600 hover:text-blue-800">{{ .Params.contact.email }}</a>
         </p>
     </div>
 </section>
