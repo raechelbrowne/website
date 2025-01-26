@@ -4,7 +4,8 @@ book:
   title: The Rope That Binds Us
   genre: Young Adult
   publishYear: 2023
-  description: Your compelling book description goes here. Make it engaging and hook your readers with an intriguing premise.
+  description: Your compelling book description goes here. Make it engaging and
+    hook your readers with an intriguing premise.
   coverImage: /img/book-cover.jpg
   retailers:
     - name: Amazon
@@ -13,7 +14,6 @@ book:
     - name: Barnes & Noble
       link: https://barnesandnoble.com
       image: /img/bn.png
-
 reviews:
   heading: What Readers Are Saying
   items:
@@ -23,14 +23,14 @@ reviews:
     - quote: This book is a true masterpiece.
       author: John Smith
       title: Literary Review
-
 about:
   heading: About the Author
-  image: /img/author.jpg
+  image: img/51ltcfcyqql._sl1360_.jpg
   paragraphs:
-    - Your compelling bio goes here. Share your journey as a writer, your inspirations, and what drives you to create stories.
-    - Additional personal details, achievements, and interesting facts about you can go here.
-
+    - Your compelling bio goes here. Share your journey as a writer, your
+      inspirations, and what drives you to create stories.
+    - Additional personal details, achievements, and interesting facts about you
+      can go here.
 contact:
   heading: Get in Touch
 ---
