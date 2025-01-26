@@ -30,5 +30,5 @@ about:
       can go here.
 contact:
   heading: Get in Touch
-  email: your@email.com
+  email: raechelbrowne@gmail.com
 ---
