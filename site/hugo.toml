@@ -13,7 +13,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
     url = "#about"
   [[menu.main]]
     name = "Blog"
-    url = "https://yourblog.com"
+    url = "/post"
   [[menu.main]]
     name = "Events"
     url = "https://eventbrite.com/yourpage"
