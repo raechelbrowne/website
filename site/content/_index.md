@@ -5,7 +5,7 @@ book:
   genre: Young Adult
   publishYear: "2024"
   description: Your compelling book description goes here. Make it engaging and
-    hook your readers with an intriguing premise.
+    hook your readers with an intriguing premise.Thanks
   coverImage: img/51ltcfcyqql._sl1360_.jpg
   retailers:
     - name: Amazon
