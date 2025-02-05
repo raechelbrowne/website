@@ -32,6 +32,9 @@ book:
     - name: Barnes & Noble
       link: https://www.barnesandnoble.com/w/the-rope-that-binds-us-raechel-browne/1146526943?ean=9798893093056
       image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-12x4zOC4PWvHTZLRXvbw6A03dJW7wclz0w&s
+    - name: iTunes
+      link: https://books.apple.com/us/book/the-rope-that-binds-us/id6738747148
+      image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiKOracQ8AnYdnjgy-CQe3Qkot0e0CU5XwQ&s
 reviews:
   heading: What Readers Are Saying
   items:
