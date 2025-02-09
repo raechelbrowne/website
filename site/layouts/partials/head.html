@@ -6,11 +6,11 @@
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
-  {{ with .Site.Data.custom_styles }}
     <style>
-      {{ .custom_css | safeCSS }}
+      html {
+	      font-size: 17px;
+      }
     </style>
-  {{ end }}
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
