@@ -11,16 +11,26 @@ book:
     problem of all? The Darkness isn't finished with her.
 
 
+
+
     Three years ago, Sophie had a mental breakdown and shut herself off from the rest of the world. While her friends were living the typical teenage experience, Sophie was navigating the ruinous world of depression and anxiety.
+
+
 
 
     Now she's back at school, ready to experience everything senior year has to offer. She's always dreamed of being in the musical, going to prom, and graduating with her class. All the while, the Darkness is hovering, threatening to pull her back into isolation and misery.
 
 
+
+
     Through it all, there's Adam King. The car crash that killed her sister years before brought their families together. Now Adam is sticking his nose in her business like any good pseudo big brother. He keeps her from getting involved with a bad boy, eases her fears, and reminds her of her own strength when she needs it most. Their relationship begins to change in ways she never expected, much to the irritation of his longtime girlfriend.
 
 
+
+
     Despite everything, or maybe because of it, Sophie starts to like the one person she has always hated: herself.
+
+
 
 
     Set primarily in the aftermath of recovery from a mental breakdown, Sophie's story of hope, courage, and first love is interwoven with memories of her darkest days and flash-forwards of a future she never dreamed she could have.
