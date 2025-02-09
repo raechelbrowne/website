@@ -126,6 +126,17 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Blurb, name: blurb, widget: text}
+       - name: "social"
+        label: "Social Media Links"
+        file: "data/social.yaml"
+        fields:
+          - label: "Social Links"
+            name: "social_links"
+            widget: "list"
+            summary: "{{fields.platform}} - {{fields.link}}"
+            fields:
+              - {label: "Platform", name: "platform", widget: "select", options: ["twitter", "facebook", "instagram", "linkedin", "github", "youtube"]}
+              - {label: "URL", name: "link", widget: "string"}
       - file: "site/hugo.toml"
         label: Hugo Config
         name: config
