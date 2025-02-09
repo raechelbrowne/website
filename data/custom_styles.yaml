@@ -1,0 +1,4 @@
+custom_css: |-
+  html {
+      font-size: 17px;  /* This will make all rem-based sizes smaller */
+    }
