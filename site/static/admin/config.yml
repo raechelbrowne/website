@@ -120,13 +120,7 @@ collections: # A list of collections the CMS should be able to edit
             default_language: 'css'
             allow_language_selection: false
             output_code_only: true
-      - file: "site/data/footer.json"
-        label: Footer
-        name: footer
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Blurb, name: blurb, widget: text}
-       - name: "social"
+      - name: "social"
         label: "Social Media Links"
         file: "data/social.yaml"
         fields:
@@ -137,6 +131,12 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: "Platform", name: "platform", widget: "select", options: ["twitter", "facebook", "instagram", "linkedin", "github", "youtube"]}
               - {label: "URL", name: "link", widget: "string"}
+      - file: "site/data/footer.json"
+        label: Footer
+        name: footer
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Blurb, name: blurb, widget: text}
       - file: "site/hugo.toml"
         label: Hugo Config
         name: config
