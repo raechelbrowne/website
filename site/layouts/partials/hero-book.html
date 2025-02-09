@@ -4,7 +4,7 @@
             <div class="md:w-2/3">
                 <h1 class="text-4xl font-bold mb-4">{{ .Params.book.title }}</h1>
                 <p class="text-xl text-gray-600 mb-6">{{ .Params.book.genre }} • Published {{ .Params.book.publishYear }}</p>
-                <div class="text-gray-700 mb-8">
+                <div class="text-sm text-gray-700 mb-8">
                   {{ with .Params.book.description }}
                     {{ . | markdownify }}
                   {{ end }}
