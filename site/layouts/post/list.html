@@ -10,7 +10,7 @@
                {{ if .Params.image }}
                <div class="md:w-1/2">
                   {{ with .Resources.Get .Params.image }}
-                    <img src="{{ ..RelPermalink }}" alt="{{ $.Title }}" class="w-full h-96 object-cover">
+                    <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full h-96 object-cover">
                   {{ end }}
                </div>
                {{ end }}
