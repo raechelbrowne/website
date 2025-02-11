@@ -1,12 +1,12 @@
 <footer class="bg-gray-800 text-white py-8 px-4">
     <div class="max-w-6xl mx-auto text-center">
-<!--         <div class="flex justify-center gap-6 mb-4">
+        <div class="flex justify-center gap-6 mb-4">
             {{ range .Site.Params.social }}
             <a href="{{ .link }}" class="hover:text-gray-400">
                 <i class="fab fa-{{ .platform }}"></i>
             </a>
             {{ end }}
-        </div> -->
+        </div>
         <p class="text-gray-400">© {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.</p>
     </div>
 </footer>
