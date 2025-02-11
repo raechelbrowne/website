@@ -16,7 +16,7 @@ url = "/#about"
 
 [[menu.main]]
 name = "Blog"
-url = "/post"
+url = "/#posts"
 
 [[menu.main]]
 name = "Contact"
