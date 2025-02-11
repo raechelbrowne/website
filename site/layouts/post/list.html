@@ -9,7 +9,9 @@
            <div class="bg-white rounded-lg shadow-xl overflow-hidden flex flex-col md:flex-row">
                {{ if .Params.image }}
                <div class="md:w-1/2">
-                   <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-96 object-cover">
+                  {{ with .Resources.Get .Params.image }}
+                    <img src="{{ ..RelPermalink }}" alt="{{ $.Title }}" class="w-full h-96 object-cover">
+                  {{ end }}
                </div>
                {{ end }}
                <div class="md:w-1/2 p-8 flex flex-col justify-center">
