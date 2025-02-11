@@ -64,7 +64,7 @@ reviews:
       title: Amazon Review
 about:
   heading: About the Author
-  image: https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/433411489_10163501896053378_835642318952905457_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=9z0XSok99BoQ7kNvgHZug0T&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=AJfsPbRLWHM2hYF-8MLJIKy&oh=00_AYCiXxjSrDQwLtdcCuLJJtL_Qcl5fTSkQ0tQhfcAlz9Rcw&oe=67A8277A
+  image: img/headshot.jpg
   paragraphs:
     - Raechel Browne is a California girl living in Wisconsin. More than
       anything she loves to spend time with family and friends, read copious
