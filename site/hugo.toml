@@ -26,17 +26,13 @@ url = "/#contact"
 images = ["img/51ltcfcyqql._sl1360_.jpg"]
 
 [[params.social]]
-platform = "twitter"
-link = "https://twitter.com/youraccount"
-
-[[params.social]]
 platform = "instagram"
-link = "https://instagram.com/youraccount"
+link = "https://instagram.com/authorraechelbrowne"
 
 [[params.social]]
 platform = "facebook"
-link = "https://facebook.com/youraccount"
+link = "https://www.facebook.com/profile.php?id=61570502693211#"
 
 [[params.social]]
 platform = "goodreads"
-link = "https://goodreads.com/youraccount"
+link = "https://www.goodreads.com/author/show/53042633.Raechel_Browne"
