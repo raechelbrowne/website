@@ -7,7 +7,7 @@
         </div>
         
         <div class="grid md:grid-cols-2 gap-8 mb-8">
-            {{ range first 2 (where .Site.RegularPages "Section" "blog") }}
+            {{ range first 2 .Pages }}
             <article class="bg-white rounded-lg shadow-md overflow-hidden">
                 {{ with .Params.image }}
                 <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-48 object-cover">
