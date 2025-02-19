@@ -5,7 +5,7 @@ description: How did I come to write The Rope That Binds Us? Here's the scoop, k
 ---
 Ok, this is officially my first blog post. Well….maybe 2nd, *but* that was just an intro thing so it only half counts.
 
-I’ve decided that the title of each one will tell you all, my readers (of which there are many, I’m sure), what category that post is in. It will either be **Author Life**, **Books**, **Darkness(+)**, **Darkness(-)**, **Updates**, **Chapters**, or **Characters**. There may be more in the future as I think of them, but you get the idea.
+I’ve decided that the title of each one will tell you all, my readers (of which there are many, I’m sure), what category that post is in. It will either be **Author Life**, **Books**, **The Darkness**, **Updates**, **Chapters**, or **Characters**. There may be more in the future as I think of them, but you get the idea.
 
 I decided not to overthink what the first one should be about, so the first idea that popped into my head is the one I’m going with.
 
