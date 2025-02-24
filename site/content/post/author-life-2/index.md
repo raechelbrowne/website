@@ -38,10 +38,6 @@ It is so crazy to me how far I have come in six years. From finishing the first 
 
 ![](cover.jpg)
 
-
-
 Until Next Time,
-
-
 
 RaeB
