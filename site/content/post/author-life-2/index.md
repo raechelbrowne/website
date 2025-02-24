@@ -1,5 +1,5 @@
 ---
-title: "Author Life #2"
+title: "Author Life #2: Anniversary of the First Draft"
 date: 2025-02-24T17:11:35.452Z
 description: Anniversary of the First Draft
 image: ""
