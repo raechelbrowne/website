@@ -1,7 +1,7 @@
 ---
 title: "Author Life #2: Anniversary of the First Draft"
 date: 2025-02-24T18:02:07.948Z
-description: Anniversary of the First Draft
+description: "Anniversary of the First Draft "
 ---
 Saturday marked a great occasion that, up until that day, I was unaware of. I’m usually a whiz when it comes to dates, birthdays and anniversaries, but this date was not even on my radar until Facebook memories set me straight. Thank goodness for memories.
 
