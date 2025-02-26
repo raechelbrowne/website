@@ -7,7 +7,7 @@ Saturday marked a great occasion that, up until that day, I was unaware of. I’
 
 Six years ago on Saturday, I finished writing the first draft of The Rope That Binds Us! How crazy is that?!
 
-![](site/content/post/author-life-2-anniversary-of-the-first-draft/screenshot_20250222_180654_facebook.jpg)
+![](screenshot_20250222_180654_facebook.jpg)
 
 I don’t know if you remember (or read) two posts ago, but I was trying to remember how long ago it was that I began writing this book. Well now we have our answer!!
 
@@ -15,7 +15,7 @@ I barely remember this day other than printing out the ridiculous amount of page
 
 I shared my accomplishment on Facebook (obviously) and my husband left me the sweetest comment:
 
-![](site/content/post/author-life-2-anniversary-of-the-first-draft/screenshot_20250222_180717_facebook.jpg)
+![](screenshot_20250222_180717_facebook.jpg)
 
 \*Swoon\*
 
@@ -25,17 +25,17 @@ Now it sits on my bookshelf, unbound in a ratty manila envelope from my son’s 
 
 Author tip: When you are bouncing around timelines, it helps to write it all out.
 
-![](site/content/post/author-life-2-anniversary-of-the-first-draft/20250224_114243.jpg)
+![](20250224_114243.jpg)
 
 Once I did that, then I went psycho-organizer and wrote out chapter synopsisis? Synopsisi? Synopsies? IDK. I wrote out a synopsis for each chapter on 3x5 cards. Better?
 
 Then I color coded them and highlighted certain characters in certain colors. I used poster putty so I could move chapters around at my whim. It made the organizer in me happy. And it gave me an overall bigger picture view.
 
-![](site/content/post/author-life-2-anniversary-of-the-first-draft/timeline.jpg)
+![](timeline.jpg)
 
 It is so crazy to me how far I have come in six years. From finishing the first draft of a story I was pretty sure no one was going to read, to a published novel I can be proud of. Yay for dreams coming true.
 
-![](site/content/post/author-life-2-anniversary-of-the-first-draft/cover.jpg)
+![](cover.jpg)
 
 Until Next Time,
 
