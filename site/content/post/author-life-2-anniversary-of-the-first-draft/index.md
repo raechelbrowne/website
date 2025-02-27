@@ -7,7 +7,7 @@ Saturday marked a great occasion that, up until that day, I was unaware of. I’
 
 Six years ago on Saturday, I finished writing the first draft of The Rope That Binds Us! How crazy is that?!
 
-![](https://drive.google.com/file/d/1RAB0Gpa0UHn6FjwlAykHtZ4KxpS-6vbP/view?usp=drive_link)
+![](site/static/img/screenshot_20250222_180654_facebook.jpg)
 
 I don’t know if you remember (or read) two posts ago, but I was trying to remember how long ago it was that I began writing this book. Well now we have our answer!!
 
