@@ -19,7 +19,7 @@ But FIRST, the rules:
 
 ## **First place winner:**
 
-![](1prizewinner-1-.jpg)
+![](site/static/img/1prizewinner-1-.jpg)
 
 ```
 WHAT?! How cool is that?!
@@ -61,8 +61,6 @@ Yes, please!
 
 ```
 
-
-
 ## 4th Place Winner
 
 ![](4prizewinner.jpg)
@@ -80,13 +78,7 @@ Pinch me, I'm dreaming!
 
 ```
 
-
-
-
-
 ## 5th Place Winner
-
-
 
 ![](5prizewinner.jpg)
 
