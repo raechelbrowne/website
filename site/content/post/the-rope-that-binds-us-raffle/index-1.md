@@ -32,7 +32,7 @@ Sign me up, Buttercup😃
 
 ## 2nd place winner:
 
-![](2prizewinner.jpg)
+![](https://raechelbrowne.com/img/2prizewinner.jpg)
 
 ```
 Ok, you're gonna give me a FREE copy of the audiobook
@@ -48,7 +48,7 @@ Have I died and gone to heaven?😇
 
 ## 3rd Place Winner
 
-![](3prizewinner.jpg)
+![](https://raechelbrowne.com/img/3prizewinner.jpg)
 
 ```
 Cuz who doesn’t want MORE books?!?!? 
@@ -63,7 +63,7 @@ Yes, please!
 
 ## 4th Place Winner
 
-![](4prizewinner.jpg)
+![](https://raechelbrowne.com/img/4prizewinner.jpg)
 
 ```
 I mean, who doesn't need caffeine to 
@@ -80,7 +80,7 @@ Pinch me, I'm dreaming!
 
 ## 5th Place Winner
 
-![](5prizewinner.jpg)
+![](https://raechelbrowne.com/img/5prizewinner.jpg)
 
 ```
 Ok, now you're just messing with me right?
