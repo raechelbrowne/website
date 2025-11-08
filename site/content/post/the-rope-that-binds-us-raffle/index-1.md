@@ -19,7 +19,7 @@ But FIRST, the rules:
 
 ## **First place winner:**
 
-![](site/static/img/1prizewinner-1-.jpg)
+![](https://raechelbrowne.com/img/1prizewinner-1-.jpg)
 
 ```
 WHAT?! How cool is that?!
