@@ -2,7 +2,7 @@
 title: '"The Rope That Binds Us" Raffle'
 date: 2025-11-08T04:20:19.325Z
 description: List of Rules and Prizes
-image: 360_f_639139067_0dmghlcxumn7vbow7xykdjtajieppllg.jpg
+image: https://raechelbrowne.com/img/raffle.jpg
 ---
 Ready for this list of AMAZING, one-of-a-kind prizes???!?!?!?!
 
