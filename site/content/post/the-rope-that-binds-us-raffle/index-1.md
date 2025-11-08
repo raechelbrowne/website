@@ -23,11 +23,16 @@ But FIRST, the rules:
 
 ```
 WHAT?! How cool is that?!
-A t-shirt (with a different designs to choose from)
-The audiobook of The Rope That Binds Us
-and a notebook (also with different designs to choose from)???
+A t-shirt (with a different designs to choose 
+from), The audiobook of The Rope That Binds Us,
+and a notebook (also with different designs to
+choose from)???
 
 Sign me up, Buttercup😃
+```
+
+```
+
 ```
 
 ## 2nd place winner:
@@ -35,9 +40,9 @@ Sign me up, Buttercup😃
 ![](https://raechelbrowne.com/img/2prizewinner.jpg)
 
 ```
-Ok, you're gonna give me a FREE copy of the audiobook
-AND a tote bag to carry all of the books 
-I bought at Barnes & Noble??
+Ok, you're gonna give me a FREE copy of the 
+audiobook AND a tote bag to carry all of the 
+books I bought at Barnes & Noble??
 
 Have I died and gone to heaven?😇
 ```
@@ -68,8 +73,9 @@ Yes, please!
 ```
 I mean, who doesn't need caffeine to 
 stay up all night reading??
-And a keychain to keep track of my keys so I can run to
-Barnes & Noble and buy MORE BOOKS?!
+And a keychain to keep track of my keys so 
+I can run to Barnes & Noble and buy 
+MORE BOOKS?!
 
 Pinch me, I'm dreaming!
 ```
@@ -84,8 +90,8 @@ Pinch me, I'm dreaming!
 
 ```
 Ok, now you're just messing with me right?
-5 winners? And even the last one gets a notebook
-AND a keychain?
+5 winners? And even the last one gets a 
+notebook AND a keychain?
 
 Bliss. Pure bliss.
 ```
