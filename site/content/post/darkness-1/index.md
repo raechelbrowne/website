@@ -2,6 +2,7 @@
 title: "Darkness #1"
 date: 2025-11-15T03:53:32.699Z
 description: My most recent breakdown and why this one is different from the others.
+image: depresh.jpg
 ---
 You know how when you suffer from depression your whole life and you write a book about it, but then have a mental breakdown so it’s hard for you to get out of bed let alone promote your book about your experiences with depression because you’re too depressed?
 
