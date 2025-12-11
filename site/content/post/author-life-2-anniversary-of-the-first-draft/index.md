@@ -25,17 +25,17 @@ Now it sits on my bookshelf, unbound in a ratty manila envelope from my son’s 
 
 Author tip: When you are bouncing around timelines, it helps to write it all out.
 
-![](20250224_114243.jpg)
+![](blob:https://raechelbrowne.com/2bd04af7-a8e0-4715-9de2-72d5faf7049c)
 
 Once I did that, then I went psycho-organizer and wrote out chapter synopsisis? Synopsisi? Synopsies? IDK. I wrote out a synopsis for each chapter on 3x5 cards. Better?
 
 Then I color coded them and highlighted certain characters in certain colors. I used poster putty so I could move chapters around at my whim. It made the organizer in me happy. And it gave me an overall bigger picture view.
 
-![](timeline.jpg)
+![](blob:https://raechelbrowne.com/388ce8de-58b6-446f-a399-3012ab79e6c0)
 
 It is so crazy to me how far I have come in six years. From finishing the first draft of a story I was pretty sure no one was going to read, to a published novel I can be proud of. Yay for dreams coming true.
 
-![](cover.jpg)
+![](blob:https://raechelbrowne.com/ee420be1-928b-448a-9fff-d62c5e8e516b)
 
 Until Next Time,
 
