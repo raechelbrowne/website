@@ -15,7 +15,7 @@ I barely remember this day other than printing out the ridiculous amount of page
 
 I shared my accomplishment on Facebook (obviously) and my husband left me the sweetest comment:
 
-![](raechelbrowne.com/fbcomment.jpg)
+![](blob:https://raechelbrowne.com/a969b47b-dd98-4a30-8f66-b8ac235c2864)
 
 \*Swoon\*
 
@@ -25,7 +25,7 @@ Now it sits on my bookshelf, unbound in a ratty manila envelope from my son’s 
 
 Author tip: When you are bouncing around timelines, it helps to write it all out.
 
-![](timeline.jpg)
+![](20250224_114243.jpg)
 
 Once I did that, then I went psycho-organizer and wrote out chapter synopsisis? Synopsisi? Synopsies? IDK. I wrote out a synopsis for each chapter on 3x5 cards. Better?
 
