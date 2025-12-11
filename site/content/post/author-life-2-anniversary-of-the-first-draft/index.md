@@ -15,7 +15,7 @@ I barely remember this day other than printing out the ridiculous amount of page
 
 I shared my accomplishment on Facebook (obviously) and my husband left me the sweetest comment:
 
-![](raechelbrowne.com/img/fbcomment.jpg)
+![](raechelbrowne.com/fbcomment.jpg)
 
 \*Swoon\*
 
